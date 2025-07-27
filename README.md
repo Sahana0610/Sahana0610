@@ -46,8 +46,3 @@
 - ✉️ sahananandigavi@gmail.com
 - 🐙 [GitHub](https://github.com/Sahana0610)
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
--->
